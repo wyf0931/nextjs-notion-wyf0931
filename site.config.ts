@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Wyf0931技术博客',
-  domain: 'wyf0931.cn',
+  domain: 'notion2blog-wyf0931.vercel.app',
   author: 'wyf0931',
 
   // open graph metadata (optional)
